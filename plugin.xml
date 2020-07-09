@@ -130,6 +130,7 @@
 			<pods use-frameworks="true">
 				<pod name="Firebase/Core" spec="6.27.0"/>
 				<pod name="Firebase/Auth" spec="6.27.0"/>
+				<pod name="FirebaseFirestore" git="https://github.com/invertase/firestore-ios-sdk-frameworks.git" tag="6.27.0"/>
 				<pod name="Firebase/Crashlytics" spec="6.27.0"/>
 			</pods>
 		</podspec>
